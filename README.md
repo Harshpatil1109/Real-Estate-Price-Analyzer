@@ -89,6 +89,8 @@ Follow these instructions to get a local copy up and running.
 
 ---
 
-## 📄 License
+OUTPUT:-
+<img width="1466" height="580" alt="Image" src="https://github.com/user-attachments/assets/4e1b87e2-5980-4801-b865-b7291efdc75d" />
+<img width="1466" height="568" alt="Image" src="https://github.com/user-attachments/assets/553e2661-5a61-448a-b8d1-c4253d9b3e86" />
+<img width="1465" height="572" alt="Image" src="https://github.com/user-attachments/assets/3d3d1a56-2d2f-42b5-8e04-4a4a46ac077e" />
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
